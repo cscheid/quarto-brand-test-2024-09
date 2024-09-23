@@ -1,0 +1,15 @@
+---
+format: typst
+title: "A typst document for `_brand.yml`"
+author: "Quarto authors"
+---
+
+## And this is a typst document
+
+{{< lipsum 2 >}}
+
+### Subsection
+
+```{r}
+plot(1:100)
+```

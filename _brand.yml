@@ -1,0 +1,23 @@
+color:
+  palette:
+    red: '#ff0000'
+    teal: '#008080'
+    white: '#ffeedd'
+    black: '#003366'
+  primary: teal
+  background: white
+  foreground: black
+typography:
+  fonts:
+    - source: google
+      family: Montserrat
+      weight: [400, 700]
+      style: [normal, italic]
+    - source: google
+      family: Roboto
+      weight: [400, 700]
+      style: [normal, italic]
+  base:
+    family: Montserrat
+  headings:
+    family: Roboto
